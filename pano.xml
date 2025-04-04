@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" apprev="20995" appversion="7.1.9" start="node1">
+  <panorama id="node1">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="28.561" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45206885" copyright="" description="" longitude="-51.92308919" author="" customnodeid="" heading="28.561" comment="" info="" nodeid="node1"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" title="Titanium Veículos" pan="-17.1998" id="Point01" distance="14.5119" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node11}" title="Titanium Veículos" pan="13.1228" id="Point02" distance="14.903" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="25.203" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45197780" copyright="" description="" longitude="-51.92298727" author="" customnodeid="" heading="25.203" comment="" info="" nodeid="node2"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node1}" title="Titanium Veículos" pan="159.442" id="Point01" distance="14.5119" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node3}" title="Titanium Veículos" pan="-2.73519" id="Point02" distance="10.2201" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node11}" title="Titanium Veículos" pan="81.7944" id="Point03" distance="7.70237" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="27.9516" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45189660" copyright="" description="" longitude="-51.92294033" author="" customnodeid="" heading="27.9516" comment="" info="" nodeid="node3"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" title="Titanium Veículos" pan="180.013" id="Point01" distance="10.2201" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node4}" title="Titanium Veículos" pan="1.92719" id="Point02" distance="6.54716" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="26.0899" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45184369" copyright="" description="" longitude="-51.92291217" author="" customnodeid="" heading="26.0899" comment="" info="" nodeid="node4"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node3}" title="Titanium Veículos" pan="180.066" id="Point01" distance="6.54716" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node5}" title="Titanium Veículos" pan="1.22131" id="Point02" distance="6.18066" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="25.6047" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45179326" copyright="" description="" longitude="-51.92288669" author="" customnodeid="" heading="25.6047" comment="" info="" nodeid="node5"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node4}" title="Titanium Veículos" pan="180.736" id="Point01" distance="6.18066" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node6}" title="Titanium Veículos" pan="-0.253388" id="Point02" distance="2.50964" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="26.8941" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45177295" copyright="" description="" longitude="-51.92287596" author="" customnodeid="" heading="26.8941" comment="" info="" nodeid="node6"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node5}" title="Titanium Veículos" pan="181.036" id="Point01" distance="2.50964" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node7}" title="Titanium Veículos" pan="89.0043" id="Point02" distance="5.26294" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node16}" title="Titanium Veículos" pan="33.0595" id="Point03" distance="2.54552" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-154.227" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45175081" copyright="" description="" longitude="-51.92292156" author="" customnodeid="" heading="-154.227" comment="" info="" nodeid="node7"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node6}" title="Titanium Veículos" pan="-272.117" id="Point01" distance="5.26294" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node8}" title="Titanium Veículos" pan="0.196923" id="Point02" distance="7.12895" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node14}" title="Titanium Veículos" pan="-87.3347" id="Point03" distance="5.0574" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-153.899" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45180864" copyright="" description="" longitude="-51.92295173" author="" customnodeid="" heading="-153.899" comment="" info="" nodeid="node8"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node7}" title="Titanium Veículos" pan="-179.475" id="Point01" distance="7.12895" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node9}" title="Titanium Veículos" pan="2.77928" id="Point02" distance="8.63965" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-156.216" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45187999" copyright="" description="" longitude="-51.92298526" author="" customnodeid="" heading="-156.216" comment="" info="" nodeid="node9"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node8}" title="Titanium Veículos" pan="-179.538" id="Point01" distance="8.63965" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node10}" title="Titanium Veículos" pan="-1.67912" id="Point02" distance="6.36359" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-155.369" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45193166" copyright="" description="" longitude="-51.92301208" author="" customnodeid="" heading="-155.369" comment="" info="" nodeid="node10"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node9}" title="Titanium Veículos" pan="-180.832" id="Point01" distance="6.36359" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node11}" title="Titanium Veículos" pan="-52.5163" id="Point02" distance="3.999" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-157.141" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45193966" copyright="" description="" longitude="-51.92305030" author="" customnodeid="" heading="-157.141" comment="" info="" nodeid="node11"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node10}" title="Titanium Veículos" pan="-234.288" id="Point01" distance="3.999" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node2}" title="Titanium Veículos" pan="-280.55" id="Point02" distance="7.70237" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node12}" title="Titanium Veículos" pan="-153.904" id="Point03" distance="3.63075" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node1}" title="Titanium Veículos" pan="7.42085" id="Point04" distance="14.903" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="22.4355" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45190706" copyright="" description="" longitude="-51.92305231" author="" customnodeid="" heading="22.4355" comment="" info="" nodeid="node12"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node11}" title="Titanium Veículos" pan="-154.327" id="Point01" distance="3.63075" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node13}" title="Titanium Veículos" pan="-2.07244" id="Point02" distance="9.39635" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="24.6368" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45183017" copyright="" description="" longitude="-51.92301410" author="" customnodeid="" heading="24.6368" comment="" info="" nodeid="node13"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node12}" title="Titanium Veículos" pan="180.129" id="Point01" distance="9.39635" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node14}" title="Titanium Veículos" pan="0.744184" id="Point02" distance="11.8224" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="22.7333" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45173296" copyright="" description="" longitude="-51.92296716" author="" customnodeid="" heading="22.7333" comment="" info="" nodeid="node14"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node13}" title="Titanium Veículos" pan="178.841" id="Point01" distance="11.8224" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node7}" title="Titanium Veículos" pan="-90.3744" id="Point02" distance="5.0574" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+      <hotspot url="{node15}" title="Titanium Veículos" pan="-20.6517" id="Point03" distance="3.38747" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="63.3591" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45171082" copyright="" description="" longitude="-51.92294435" author="" customnodeid="" heading="63.3591" comment="" info="" nodeid="node15"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node14}" title="Titanium Veículos" pan="199.974" id="Point01" distance="3.38747" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input overlap="1" width="3535" height="3535" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level width="3535" height="3535" predecode="0" preload="0"/>
+      <level width="1767" height="1767" predecode="0" preload="0"/>
+      <level width="883" height="883" predecode="0" preload="0"/>
+      <level width="441" height="441" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="26.5437" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="" title="Titanium Veículos" tags="edio2" latitude="-23.45175019" copyright="" description="" longitude="-51.92287864" author="" customnodeid="" heading="26.5437" comment="" info="" nodeid="node16"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderradius="1" width="180" height="20" background="1" bordercolor="0x000000" borderalpha="1" enabled="1" border="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node6}" title="Titanium Veículos" pan="-147.291" id="Point01" distance="2.54552" tilt="0" skinid="ht_node" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomout="0" delay="none" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedwheel="0" rubberband="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" zoomcentercursor="1" simulatemass="1" contextvr="1" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" description="" title="" author="" tags="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
